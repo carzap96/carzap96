@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carzap96
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python , data bricks 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning python , databricks
+- 💞️ I’m looking to collaborate on data engineering projects.
 - 📫 How to reach me cmzapata96@gmail.com
 
 <!---
